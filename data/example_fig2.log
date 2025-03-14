@@ -1,0 +1,28 @@
+ [15:27:27] INFO: Created log file log/main_fig2.log
+ [15:27:27] INFO: Current git commit = 82b089379d4cccb7f9f1da77e1bf1fb279e18ece
+ [15:27:27] INFO: 
+ [15:27:27] INFO: Tc,nu fit quality: 1.547
+ [15:27:27] INFO:    estimated Tc = 2.26828(61)
+ [15:27:27] INFO:    estimated nu = 1.017(41)
+ [15:27:27] INFO:  q(est vs real) = 0.14
+ [15:27:27] INFO: Tc,nu fit quality: 28.982
+ [15:27:27] INFO:    estimated Tc = 2.2664(29)
+ [15:27:27] INFO:    estimated nu = 1.21(12)
+ [15:27:27] INFO:  q(est vs real) = 0.34
+ [15:27:29] INFO: Fit Results:
+ [15:27:29] INFO:           p[0] = -1.369(93)
+ [15:27:29] INFO:           p[1] = 1.776(17)
+ [15:27:29] INFO:   chi^2/d.o.f. = 8.602924684591752
+ [15:27:29] INFO: 
+ [15:27:29] INFO: gammaBMA= 1.786(65)
+ [15:27:29] INFO: q= 0.5834549482633842
+ [15:27:29] INFO: Fit Results:
+ [15:27:29] INFO:           p[0] = -3.72(14)
+ [15:27:29] INFO:           p[1] = 2.069(24)
+ [15:27:29] INFO:   chi^2/d.o.f. = 18.25682600142339
+ [15:27:29] INFO: 
+ [15:27:29] INFO: gammaBMA= 1.92(13)
+ [15:27:29] INFO: q= 0.16416791812217013
+ [15:27:31] INFO: 
+ [15:27:31] INFO: I'm finished!
+ [15:27:31] INFO: 
